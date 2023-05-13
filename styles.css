@@ -1,0 +1,27 @@
+body { 
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+header-right {
+   text-align: right;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+ div body {
+    text-align: center;
+
+ }
+
+ p {
+    display: center;
+    padding-left: 30%;
+    padding-right: 25%;
+}
+ 
